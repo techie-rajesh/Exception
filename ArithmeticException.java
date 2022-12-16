@@ -24,6 +24,7 @@ public class ArithmeticException
 		System.out.println(mult); // it show temp value
 		System.out.println(add);
 		System.out.println(sub);
+		System.out.println("hello");
 		
 	}
 
